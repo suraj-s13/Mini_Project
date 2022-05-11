@@ -51,6 +51,6 @@ int main()
 
     cout<<endl<<endl;
 
-    cout<<"\t \t Your Age Is : "<<year<<" Years "<<month<<" Months And "<<date<<" Days"<<endl<<endl;
+    cout<<"\t \t Your Age Is : "<<abs(year)<<" Years "<<abs(month)<<" Months And "<<abs(date)<<" Days"<<endl<<endl;
 
-}
+}   
